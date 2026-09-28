@@ -8,7 +8,7 @@ Python 3.10 ou plus récent.
 
 ```bash
 python main.py ~/Documents
-python main.py ~/Documents
+python main.py ~/Downloads
 ```
 
 La recherche ne supprime aucun fichier.
